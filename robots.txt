@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://painting-contractor-albuquerque-nm.netlify.app/sitemap.xml
